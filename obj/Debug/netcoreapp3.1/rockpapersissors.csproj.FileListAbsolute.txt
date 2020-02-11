@@ -1,0 +1,11 @@
+/Users/robertnieman/rockpapersissors/bin/Debug/netcoreapp3.1/rockpapersissors
+/Users/robertnieman/rockpapersissors/bin/Debug/netcoreapp3.1/rockpapersissors.deps.json
+/Users/robertnieman/rockpapersissors/bin/Debug/netcoreapp3.1/rockpapersissors.runtimeconfig.json
+/Users/robertnieman/rockpapersissors/bin/Debug/netcoreapp3.1/rockpapersissors.runtimeconfig.dev.json
+/Users/robertnieman/rockpapersissors/bin/Debug/netcoreapp3.1/rockpapersissors.dll
+/Users/robertnieman/rockpapersissors/bin/Debug/netcoreapp3.1/rockpapersissors.pdb
+/Users/robertnieman/rockpapersissors/obj/Debug/netcoreapp3.1/rockpapersissors.csprojAssemblyReference.cache
+/Users/robertnieman/rockpapersissors/obj/Debug/netcoreapp3.1/rockpapersissors.AssemblyInfoInputs.cache
+/Users/robertnieman/rockpapersissors/obj/Debug/netcoreapp3.1/rockpapersissors.AssemblyInfo.cs
+/Users/robertnieman/rockpapersissors/obj/Debug/netcoreapp3.1/rockpapersissors.dll
+/Users/robertnieman/rockpapersissors/obj/Debug/netcoreapp3.1/rockpapersissors.pdb
